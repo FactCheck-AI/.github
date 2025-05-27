@@ -4,7 +4,7 @@
 
 # Welcome to FactCheck-AI 👋
 
-**FactCheck-AI** is an academic initiative dedicated to advancing automated fact verification through the Large Language Models (LLMs).
+**FactCheck-AI** is an academic initiative dedicated to advancing automated Knowledge Graph (KG) fact verification through the Large Language Models (LLMs).
 
 We are part of the [Intelligent Information Integration and Analysis (IIIA)](https://iiia.dei.unipd.it/) research group at the [Department of Information Engineering (DEI)](https://www.dei.unipd.it/) of the [University of Padua](https://www.unipd.it/).
 
@@ -18,8 +18,8 @@ We focus on creating systems that:
 
 ## 📂 Key Repositories
 
-- **[FactCheck -- Benchmark](https://github.com/FactCheck-AI/FactCheck)**: Main repository for "FactCheck Benchmark" -- Knowledge Graph Validation via Large Language Models
-- **[Exploration](https://github.com/FactCheck-AI/FactCheck-Exploration)**: Web-based platform enabling users to inspect every step involved in the RAG methodology for KG fact-checking process.
+- **[FactCheck -- Benchmark](https://github.com/FactCheck-AI/FactCheck)**: Main repository for "FactCheck Benchmark" -- KG Validation via LLMs
+- **[Exploration](https://github.com/FactCheck-AI/FactCheck-Exploration)**: Web-based platform enabling users to inspect every step involved in the RAG for the KG fact-checking.
 - **[MockAPI](https://github.com/FactCheck-AI/FactCheck-MockAPI)**: A REST API for the FactCheck benchmark, designed to evaluate LLMs' capabilities in KG fact verification. It provides all the data through the MockAPI.
 
 ## 🌐 Learn More
