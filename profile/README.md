@@ -34,14 +34,6 @@ We focus on creating systems that:
 - **Website**: [factcheck.dei.unipd.it](https://factcheck.dei.unipd.it/)
 - **API Access**: [factcheck-api.dei.unipd.it](https://factcheck-api.dei.unipd.it/)
 
-## 📖 Citation
-
-If you use our work in your research, please cite our publications:
-
-> Shami, Farzad and Marchesin, Stefano and Silvello, Gianmaria, "FactCheck: Automated Fact Verification Using Knowledge Graphs and Large Language Models," *Proceedings of [Conference Name]*, [Year]. [DOI or URL]
-
-> Shami, Farzad and Marchesin, Stefano and Silvello, Gianmaria, "FactCheck: Automated Fact Verification Using Knowledge Graphs and Large Language Models," *Proceedings of [Conference Name]*, [Year]. [DOI or URL]
-
 ## 🤝 Contributing
 
 To get involved:
