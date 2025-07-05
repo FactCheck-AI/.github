@@ -42,8 +42,6 @@ To get involved:
 2. Check the issues section for tasks labeled "good first issue" or "help wanted."
 3. Fork the repository, make your changes, and submit a pull request.
 
-Please ensure you adhere to our [code of conduct](https://github.com/FactCheck-AI/.github/blob/main/CODE_OF_CONDUCT.md) and follow the [contribution guidelines](https://github.com/FactCheck-AI/.github/blob/main/CONTRIBUTING.md).
-
 ## 📫 Contact Us
 We are part of the [Intelligent Information Integration and Analysis (IIIA)](https://iiia.dei.unipd.it/) research group at the [Department of Information Engineering (DEI)](https://www.dei.unipd.it/) of the [University of Padua](https://www.unipd.it/).
 
