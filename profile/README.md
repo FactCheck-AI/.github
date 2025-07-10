@@ -18,6 +18,7 @@
 - **[MockAPI](https://github.com/FactCheck-AI/FactCheck-MockAPI)**: A REST API for the FactCheck benchmark, designed to evaluate LLMs' capabilities in KG fact verification. It provides all the data through the MockAPI.
 
 ## 🔍 FactCheck-AI News
+- 📣 NEW! **[Dataset-wise Analysis](https://github.com/FactCheck-AI/FactCheck/blob/main/extra-experiments/dataset-wise/README.md)** are now available as Extra Experiments.
 - 📣 NEW! **[MockAPI](https://factcheck-api.dei.unipd.it/)** is now available through unipd servers.
 
 ## 🔍 What We Do
